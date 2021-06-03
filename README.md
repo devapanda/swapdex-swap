@@ -31,7 +31,7 @@ repository.
 ### Install Dependencies
 
 ```bash
-Already installed just run development
+yarn install
 ```
 
 ### build
@@ -51,6 +51,7 @@ npx serve -s build
 ```bash
 yarn start
 ```
+### Swapdex-interface-ui
 
 ### Configuring the environment (optional)
 
